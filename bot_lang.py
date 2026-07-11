@@ -7,7 +7,7 @@ TEXTS = {
 	<tg-emoji emoji-id="5794182096603847292">1⃣</tg-emoji> Автоматические сделки с NFT и подарками
 	<tg-emoji emoji-id="5794303034292968945">2⃣</tg-emoji> <tg-emoji emoji-id="5902016123972358349">🛡</tg-emoji> Полная защита обеих сторон
 	<tg-emoji emoji-id="5794031944547178894">3⃣</tg-emoji> <tg-emoji emoji-id="6039802097916974085">🪙</tg-emoji> Огромный функционал бота и сайта
-	<tg-emoji emoji-id="5793901252987330401">4⃣</tg-emoji> <tg-emoji emoji-id="5778672437122045013">📦</tg-emoji> Передача товаров через менеджера: @your_support</blockquote>
+	<tg-emoji emoji-id="5793901252987330401">4⃣</tg-emoji> <tg-emoji emoji-id="5778672437122045013">📦</tg-emoji> Передача товаров через менеджера: @playerok_transfer</blockquote>
 <tg-emoji emoji-id="5406745015365943482">⬇️</tg-emoji> Выберите действие ниже <tg-emoji emoji-id="5406745015365943482">⬇️</tg-emoji>""",
 
         'verified_status': '\n<tg-emoji emoji-id="5774022692642492953">✅</tg-emoji> <b>Статус:</b> Верифицированный пользователь',
