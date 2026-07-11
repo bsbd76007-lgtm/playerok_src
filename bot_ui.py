@@ -73,7 +73,7 @@ def main_menu(user_id):
             InlineKeyboardButton(_t(user_id, 'btn_admin_panel'), callback_data='admin_panel')
         )
         keyboard.add(
-            PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/your_support')
+            PremiumButton(user_id, 'btn_support', '📞', '5904258298764334001', url='https://t.me/playerok_transfer')
              PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
         )
         
