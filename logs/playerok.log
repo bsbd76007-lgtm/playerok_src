@@ -1,0 +1,57 @@
+2026-07-05 22:36:33 [INFO] playerok: data saved: users=0 deals=0 blocked=0 refs=0
+2026-07-05 22:36:33 [INFO] playerok: Playerok OTC bot starting (version 2.12.3)
+2026-07-05 22:36:33 [INFO] playerok: system owner: 0 (@)
+2026-07-05 22:36:33 [INFO] playerok: admins: 1, workers: 0
+2026-07-05 22:36:33 [INFO] playerok: digest: next run at 06.07 09:00 (in 10h)
+2026-07-05 22:36:33 [INFO] playerok: digest thread started
+2026-07-05 22:36:53 [INFO] playerok: data saved: users=1 deals=0 blocked=0 refs=0
+2026-07-05 22:36:53 [INFO] playerok: new user: id=8204720393 @wearlles ref=None
+2026-07-05 22:36:53 [INFO] playerok: data saved: users=1 deals=0 blocked=0 refs=0
+2026-07-05 22:37:08 [INFO] playerok: data saved: users=2 deals=0 blocked=0 refs=0
+2026-07-05 22:37:08 [INFO] playerok: new user: id=844181709 @sexualkilled ref=None
+2026-07-05 22:37:08 [INFO] playerok: data saved: users=2 deals=0 blocked=0 refs=0
+2026-07-05 22:40:03 [INFO] playerok: data saved: users=2 deals=0 blocked=0 refs=0
+2026-07-05 22:40:03 [INFO] playerok: Playerok OTC bot starting (version 2.12.3)
+2026-07-05 22:40:03 [INFO] playerok: system owner: 844181709 (@)
+2026-07-05 22:40:03 [INFO] playerok: admins: 2, workers: 0
+2026-07-05 22:40:03 [INFO] playerok: digest: next run at 06.07 09:00 (in 10h)
+2026-07-05 22:40:03 [INFO] playerok: digest thread started
+2026-07-05 22:44:09 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:44:09 [INFO] playerok: new user: id=624138323 @cashriki ref=None
+2026-07-05 22:44:09 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:44:40 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:44:40 [INFO] playerok: Playerok OTC bot starting (version 2.12.3)
+2026-07-05 22:44:40 [INFO] playerok: system owner: 844181709 (@)
+2026-07-05 22:44:40 [INFO] playerok: admins: 4, workers: 0
+2026-07-05 22:44:40 [INFO] playerok: digest: next run at 06.07 09:00 (in 10h)
+2026-07-05 22:44:40 [INFO] playerok: digest thread started
+2026-07-05 22:45:13 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:45:13 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:47:20 [WARNING] playerok: polling network blip (ReadTimeout): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=35) — restart in 5s
+2026-07-05 22:48:01 [WARNING] playerok: polling network blip (ReadTimeout): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=35) — restart in 10s
+2026-07-05 22:49:55 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:49:55 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:50:28 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:50:28 [INFO] playerok: data saved: users=3 deals=0 blocked=0 refs=0
+2026-07-05 22:51:15 [INFO] playerok.floor: floor_client: utils_nft_floor недоступен (No module named 'utils_nft_floor') — работаем только через public API
+2026-07-05 22:51:15 [INFO] playerok: data saved: users=3 deals=1 blocked=0 refs=0
+2026-07-05 22:51:15 [WARNING] playerok: team forum log failed (new_deal): A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+2026-07-05 22:51:15 [INFO] playerok: data saved: users=3 deals=1 blocked=0 refs=0
+2026-07-05 22:51:39 [INFO] playerok: data saved: users=3 deals=1 blocked=0 refs=0
+2026-07-05 22:51:39 [INFO] playerok: data saved: users=3 deals=1 blocked=0 refs=0
+2026-07-05 22:54:54 [INFO] playerok: data saved: users=4 deals=1 blocked=0 refs=0
+2026-07-05 22:54:54 [INFO] playerok: new user: id=532880008 @waveboyss ref=None
+2026-07-05 22:54:54 [INFO] playerok: data saved: users=4 deals=1 blocked=0 refs=0
+2026-07-06 11:15:52 [INFO] playerok: data saved: users=4 deals=1 blocked=0 refs=0
+2026-07-06 11:15:52 [INFO] playerok: Playerok OTC bot starting (version 2.12.3)
+2026-07-06 11:15:52 [INFO] playerok: system owner: 844181709 (@)
+2026-07-06 11:15:52 [INFO] playerok: admins: 4, workers: 0
+2026-07-06 11:15:52 [INFO] playerok: digest: next run at 07.07 09:00 (in 22h)
+2026-07-06 11:15:52 [INFO] playerok: digest thread started
+2026-07-06 11:15:53 [INFO] playerok: data saved: users=5 deals=1 blocked=0 refs=0
+2026-07-06 11:15:53 [INFO] playerok: new user: id=596805519 @forinft ref=None
+2026-07-06 11:15:53 [INFO] playerok: data saved: users=5 deals=1 blocked=0 refs=0
+2026-07-06 11:19:53 [INFO] playerok: data saved: users=5 deals=1 blocked=0 refs=0
+2026-07-06 11:19:53 [INFO] playerok: data saved: users=5 deals=1 blocked=0 refs=0
+2026-07-06 11:20:20 [INFO] playerok: data saved: users=5 deals=1 blocked=0 refs=0
+2026-07-06 11:20:20 [INFO] playerok: data saved: users=5 deals=1 blocked=0 refs=0
