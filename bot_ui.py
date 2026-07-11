@@ -76,7 +76,7 @@ def main_menu(user_id):
             PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/your_support')
              PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
         )
-        )
+        
 
     elif is_team_worker(user_id):
         keyboard.add(
