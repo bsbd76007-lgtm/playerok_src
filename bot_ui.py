@@ -102,7 +102,7 @@ def main_menu(user_id):
             PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/playerok_transfer')
              PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
         )
-        )
+        
 
     else:
         # Row 1: My profile, Create deal
@@ -132,7 +132,7 @@ def main_menu(user_id):
              PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
         )
             
-        )
+        
 
     welcome_text = get_welcome_text(user_id)
 
