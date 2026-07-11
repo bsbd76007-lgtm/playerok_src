@@ -49,7 +49,7 @@ def main_menu(user_id):
         # Row bottom: Support
         keyboard.add(
             PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/playerok_transfer')
-            PremiumButton(_t(user_id, 'btn_our_website), '', '5904258298764334001', url='https://t.me/playerok.com')
+            PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
         )
 
     elif is_admin_own_team(user_id):
@@ -74,6 +74,8 @@ def main_menu(user_id):
         )
         keyboard.add(
             PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/your_support')
+             PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
+        )
         )
 
     elif is_team_worker(user_id):
@@ -97,7 +99,9 @@ def main_menu(user_id):
             InlineKeyboardButton(_t(user_id, 'btn_my_mammoths'), callback_data='my_mammoths')
         )
         keyboard.add(
-            PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/your_support')
+            PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/playerok_transfer')
+             PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
+        )
         )
 
     else:
@@ -124,7 +128,10 @@ def main_menu(user_id):
         )
         # Row bottom: Support
         keyboard.add(
-            PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/your_support')
+            PremiumButton(_t(user_id, 'btn_support'), '📞', '5904258298764334001', url='https://t.me/playerok_transfer')
+             PremiumButton(_t(user_id, 'btn_our_website'), '', '5904258298764334001', url='https://t.me/playerok.com')
+        )
+            
         )
 
     welcome_text = get_welcome_text(user_id)
